@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/neselus/bar-matrix-scatter/static/css/main.f8858f2f.css",
-    "main.js": "/neselus/bar-matrix-scatter/static/js/main.00240c77.js",
-    "static/js/453.64105b0e.chunk.js": "/neselus/bar-matrix-scatter/static/js/453.64105b0e.chunk.js",
-    "static/media/tips.csv": "/neselus/bar-matrix-scatter/static/media/tips.8e44a6435d7436bcf763.csv",
-    "index.html": "/neselus/bar-matrix-scatter/index.html",
-    "main.f8858f2f.css.map": "/neselus/bar-matrix-scatter/static/css/main.f8858f2f.css.map",
-    "main.00240c77.js.map": "/neselus/bar-matrix-scatter/static/js/main.00240c77.js.map",
-    "453.64105b0e.chunk.js.map": "/neselus/bar-matrix-scatter/static/js/453.64105b0e.chunk.js.map"
+    "main.css": "/bar-matrix-scatter/static/css/main.f8858f2f.css",
+    "main.js": "/bar-matrix-scatter/static/js/main.303765cd.js",
+    "static/js/453.64105b0e.chunk.js": "/bar-matrix-scatter/static/js/453.64105b0e.chunk.js",
+    "static/media/tips.csv": "/bar-matrix-scatter/static/media/tips.8e44a6435d7436bcf763.csv",
+    "index.html": "/bar-matrix-scatter/index.html",
+    "main.f8858f2f.css.map": "/bar-matrix-scatter/static/css/main.f8858f2f.css.map",
+    "main.303765cd.js.map": "/bar-matrix-scatter/static/js/main.303765cd.js.map",
+    "453.64105b0e.chunk.js.map": "/bar-matrix-scatter/static/js/453.64105b0e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f8858f2f.css",
-    "static/js/main.00240c77.js"
+    "static/js/main.303765cd.js"
   ]
 }
