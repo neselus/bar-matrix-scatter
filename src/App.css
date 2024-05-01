@@ -1,0 +1,18 @@
+.parent {
+  display: flex;
+  flex-direction: column; /* Stack components vertically */
+}
+
+.row-container {
+  display: flex;
+  flex-direction: row; /* Arrange components horizontally */
+}
+
+.barchart,
+.correlationmatrix,
+.scatterplot {
+  flex: 1; /* Allow components to take equal space vertically */
+  border: 1px solid rgb(212, 212, 212);
+  padding: 5px;
+  height: 350px; /* Adjust height as needed */
+}
